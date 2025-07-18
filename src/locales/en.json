@@ -1,0 +1,492 @@
+{
+  "nav": {
+    "home": "Home",
+    "breeds": "Our Breeds",
+    "services": "Services",
+    "plans": "Plans",
+    "blog": "Blog",
+    "contact": "Contact",
+    "about": "About",
+    "login": "Login",
+    "register": "Sign Up",
+    "logout": "Logout",
+    "tagline": "Fresh Free-Range Eggs"
+  },
+  "home": {
+    "hero": {
+      "title": "Free-Range Eggs",
+      "subtitle": "Fresh & Natural",
+      "description": "From our farm in Divinópolis-MG straight to your table. Free-range chickens, natural feeding and eggs with incomparable flavor.",
+      "cta_plans": "View Plans",
+      "cta_contact": "Contact Us",
+      "natural": "Natural"
+    },
+    "why": {
+      "title": "Why Choose Golden Eggs?",
+      "description": "Our commitment is to offer superior quality eggs, produced with care and respect for animal welfare.",
+      "welfare": {
+        "title": "Animal Welfare",
+        "description": "Free-range chickens in natural environment, with care and respect."
+      },
+      "quality": {
+        "title": "Guaranteed Quality",
+        "description": "Fresh eggs collected daily with rigorous quality control."
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "From nest to your table in up to 48 hours, always fresh."
+      },
+      "taste": {
+        "title": "Superior Taste",
+        "description": "Free-range eggs with distinctive flavor and higher nutritional value."
+      }
+    },
+    "process": {
+      "title": "Our Process of Care and",
+      "subtitle": "Quality",
+      "description": "Each step of our process is designed to ensure chicken welfare and superior quality of eggs that reach your table.",
+      "feeding": {
+        "title": "Natural Feeding",
+        "description": "Balanced feed specific for laying hens, without hormones or antibiotics."
+      },
+      "environment": {
+        "title": "Free Environment",
+        "description": "Free-range chickens with access to outdoor areas and grazing."
+      },
+      "collection": {
+        "title": "Daily Collection",
+        "description": "Eggs collected 3 times a day to ensure maximum freshness."
+      },
+      "selection": {
+        "title": "Rigorous Selection",
+        "description": "Each egg is inspected to ensure quality and integrity."
+      },
+      "certified": "Certified Quality"
+    },
+    "breeds": {
+      "title": "Our Special Breeds",
+      "description": "We work with two selected breeds, each with unique characteristics that guarantee exceptional quality eggs.",
+      "isa": {
+        "category": "Traditional",
+        "subtitle": "High productivity and resistance",
+        "feature1": "300-330 eggs per year",
+        "feature2": "Brown eggs with firm shell",
+        "feature3": "Excellent feed conversion"
+      },
+      "novagen": {
+        "category": "Premium",
+        "subtitle": "Cream eggs with superior quality",
+        "feature1": "280-310 cream eggs per year",
+        "feature2": "Distinctive flavor and texture",
+        "feature3": "Higher nutritional value"
+      },
+      "learn_more": "Learn More"
+    },
+    "services": {
+      "title": "Our Areas of Operation",
+      "description": "We are a complete company in the poultry sector, offering integrated solutions for small and medium producers.",
+      "egg_production": {
+        "title": "Free-Range Egg Production",
+        "description": "Fresh and high-quality eggs from free-range chickens with natural feeding."
+      },
+      "chicken_sales": {
+        "title": "Chicken Sales",
+        "description": "Healthy birds at the end of production cycle, ideal for small farms."
+      },
+      "bedding": {
+        "title": "Poultry Bedding",
+        "description": "Organic fertilizer rich in nutrients to enrich your plantation soil."
+      },
+      "view_all": "View All Services"
+    },
+    "stats": {
+      "clients": "Satisfied Clients",
+      "cities": "Cities Served",
+      "eggs": "Eggs Delivered/Month",
+      "rating": "Customer Rating"
+    },
+    "location": {
+      "title": "Visit Our Farm in",
+      "subtitle": "Divinópolis",
+      "description": "Located in the rural area of Divinópolis-MG, our farm is always open for visits. Come see our process and see up close how we care for our chickens.",
+      "address": "Rural Area, Divinópolis - MG",
+      "delivery": "We deliver throughout the region",
+      "directions": "Get Directions",
+      "our_location": "Our Location",
+      "coordinates": "Coordinates: -20.1389, -44.8839",
+      "view_map": "View Full Map"
+    },
+    "cta": {
+      "title": "Ready to try real eggs?",
+      "description": "Choose your plan and receive fresh and natural eggs directly from our farm to your home.",
+      "button": "Choose Your Plan"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "description": "Complete solutions for the poultry sector, from egg production to professional training.",
+      "badge": "Complete Solutions"
+    },
+    "eggProduction": {
+      "title": "Free-Range Egg Production",
+      "description": "Fresh and high-quality eggs from free-range chickens with natural feeding.",
+      "badge": "Main",
+      "features": [
+        "Free-range chickens",
+        "100% natural feeding",
+        "Daily collection",
+        "Rigorous quality control"
+      ]
+    },
+    "chickenSales": {
+      "title": "Chicken Sales",
+      "description": "Healthy birds at the end of production cycle, ideal for small farms.",
+      "badge": "Sustainable",
+      "features": [
+        "Healthy and productive birds",
+        "Ideal age for reproduction",
+        "Quality genetics",
+        "Technical support included"
+      ]
+    },
+    "poultryBedding": {
+      "title": "Poultry Bedding Sales",
+      "description": "Organic fertilizer rich in nutrients to enrich your plantation soil.",
+      "badge": "Organic",
+      "features": [
+        "Rich in nutrients",
+        "100% organic",
+        "Improves soil fertility",
+        "Delivery in bags or bulk"
+      ]
+    },
+    "broodstock": {
+      "title": "Chick Broodstock",
+      "description": "Quality genetics for own consumption and for other partner producers.",
+      "badge": "Genetics",
+      "features": [
+        "Selected lineages",
+        "High productivity",
+        "Disease resistance",
+        "Technical monitoring"
+      ]
+    },
+    "feedFactory": {
+      "title": "Feed Factory",
+      "description": "We produce balanced feeds to ensure the health and productivity of our birds.",
+      "badge": "Nutrition",
+      "features": [
+        "Balanced formulas",
+        "Selected ingredients",
+        "No hormones",
+        "Different growth phases"
+      ]
+    },
+    "franchise": {
+      "title": "Golden Eggs Franchises",
+      "description": "Golden Eggs Farm franchises for small and medium producers.",
+      "badge": "Business",
+      "features": [
+        "Tested business model",
+        "Complete support",
+        "Training included",
+        "Low initial investment"
+      ]
+    },
+    "education": {
+      "title": "Learning Platform",
+      "description": "Courses and training to professionalize and train new poultry farmers.",
+      "badge": "Education",
+      "features": [
+        "Practical courses",
+        "Specialized instructors",
+        "Certification",
+        "Post-course follow-up"
+      ]
+    },
+    "stats": {
+      "title": "Our Numbers",
+      "description": "Results that demonstrate our commitment to excellence and customer satisfaction.",
+      "clients": "Clients Served",
+      "cities": "Cities of Operation",
+      "services": "Services Offered",
+      "rating": "Average Rating"
+    },
+    "process": {
+      "title": "How We Work",
+      "description": "Our proven methodology to ensure the success of your poultry project.",
+      "step1": {
+        "title": "Initial Consultation",
+        "description": "We assess your needs and objectives"
+      },
+      "step2": {
+        "title": "Customized Proposal",
+        "description": "We develop a tailored solution"
+      },
+      "step3": {
+        "title": "Implementation",
+        "description": "We execute the project with monitoring"
+      }
+    },
+    "cta": {
+      "title": "Ready to start?",
+      "description": "Contact us and discover how we can help your poultry business.",
+      "button": "Contact Us"
+    }
+  },
+  "breeds": {
+    "hero": {
+      "title": "Our Breeds",
+      "description": "Meet the two special breeds we raise on our farm, each with unique characteristics that guarantee exceptional quality eggs."
+    },
+    "isaBrown": {
+      "title": "ISA Brown",
+      "badge": "Traditional",
+      "description": "The ISA Brown is one of the most popular and productive breeds in the world. Known for its robustness, adaptability and excellent brown egg production.",
+      "characteristics": {
+        "title": "Characteristics",
+        "plumage": "Reddish brown plumage",
+        "size": "Medium size (1.8-2.2 kg)",
+        "temperament": "Docile and sociable",
+        "adaptation": "Excellent climate adaptation"
+      },
+      "production": {
+        "title": "Production",
+        "eggs": "300-330 eggs per year",
+        "peak": "Peak at 6-8 months",
+        "weight": "60-65g eggs",
+        "color": "Firm brown shell",
+        "eggsPerYear": "300-330 eggs per year",
+        "layingStart": "Laying start: 18-20 weeks",
+        "peakProduction": "Production peak: 24-40 weeks",
+        "eggWeight": "Egg weight: 60-65g"
+      },
+      "lifecycle": {
+        "title": "Life Cycle",
+        "maturity": "Sexual maturity: 18-20 weeks",
+        "peak_production": "Production peak: 24-40 weeks",
+        "productive_life": "Productive life: 12-14 months",
+        "longevity": "Longevity: 5-8 years"
+      },
+      "nutrition": {
+        "title": "Nutrition",
+        "feed": "Specific feed for laying hens",
+        "protein": "16-18% protein",
+        "calcium": "Calcium supplementation",
+        "water": "Fresh water always available"
+      },
+      "advantages": {
+        "title": "ISA Brown Advantages",
+        "productivity": "High egg productivity",
+        "resistance": "Disease resistance",
+        "conversion": "Excellent feed conversion",
+        "management": "Easy management and adaptation"
+      }
+    },
+    "novagenTinted": {
+      "title": "Novagen Tinted",
+      "badge": "Premium",
+      "description": "The Novagen Tinted is a special breed that produces cream-shelled eggs, offering a differentiated product with superior flavor and quality.",
+      "characteristics": {
+        "title": "Characteristics",
+        "plumage": "White plumage with details",
+        "size": "Medium-large size (2.0-2.5 kg)",
+        "temperament": "Calm and productive",
+        "adaptation": "Good adaptation to different climates"
+      },
+      "production": {
+        "title": "Production",
+        "eggs": "280-310 eggs per year",
+        "peak": "Peak at 7-9 months",
+        "weight": "62-68g eggs",
+        "color": "Differentiated cream shell",
+        "eggsPerYear": "280-310 eggs per year",
+        "layingStart": "Laying start: 19-21 weeks",
+        "peakProduction": "Production peak: 26-42 weeks",
+        "eggWeight": "Egg weight: 62-68g"
+      },
+      "lifecycle": {
+        "title": "Life Cycle",
+        "maturity": "Sexual maturity: 19-21 weeks",
+        "peak_production": "Production peak: 26-42 weeks",
+        "productive_life": "Productive life: 12-15 months",
+        "longevity": "Longevity: 6-9 years"
+      },
+      "nutrition": {
+        "title": "Nutrition",
+        "feed": "Premium balanced feed",
+        "protein": "17-19% protein",
+        "calcium": "High quality calcium",
+        "supplements": "Natural supplements"
+      },
+      "advantages": {
+        "title": "Novagen Tinted Advantages",
+        "eggColor": "Differentiated cream shell eggs",
+        "nutrition": "Higher nutritional value",
+        "flavor": "Superior flavor and texture",
+        "market": "High market value"
+      }
+    },
+    "comparison": {
+      "title": "Breed Comparison",
+      "description": "Compare the main characteristics of the two breeds we raise on our farm.",
+      "production": "Annual Production",
+      "egg_color": "Egg Color",
+      "egg_weight": "Egg Weight",
+      "temperament": "Temperament",
+      "adaptation": "Adaptation",
+      "table": {
+        "characteristic": "Characteristic",
+        "eggsPerYear": "Eggs per Year",
+        "eggColor": "Egg Color",
+        "layingStart": "Laying Start",
+        "eggWeight": "Egg Weight",
+        "temperament": "Temperament",
+        "brown": "Brown",
+        "cream": "Cream",
+        "weeks18": "18-20 weeks",
+        "weeks19": "19-21 weeks",
+        "docile": "Docile",
+        "calm": "Calm"
+      }
+    },
+    "cta": {
+      "title": "Interested in our breeds?",
+      "description": "Contact us to learn more about our chickens and how to acquire them.",
+      "button": "Contact Us",
+      "contact": "Contact Us",
+      "plans": "View Plans"
+    }
+  },
+  "plans": {
+    "hero": {
+      "title": "Subscription Plans",
+      "description": "Choose the ideal plan for your family and receive fresh and natural eggs monthly."
+    },
+    "basic": {
+      "name": "Basic",
+      "period": "per month",
+      "description": "Ideal for couples or small families",
+      "eggs": "2 dozen per month",
+      "features": [
+        "24 fresh free-range eggs",
+        "Monthly delivery",
+        "WhatsApp support",
+        "Quality guarantee"
+      ]
+    },
+    "family": {
+      "name": "Family",
+      "period": "per month",
+      "description": "Perfect for families of 3-4 people",
+      "eggs": "4 dozen per month",
+      "badge": "Most Popular",
+      "features": [
+        "48 fresh free-range eggs",
+        "Bi-weekly delivery",
+        "Priority support",
+        "Quality guarantee",
+        "7% discount"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "period": "per month",
+      "description": "For large families or intensive consumption",
+      "eggs": "6 dozen per month",
+      "features": [
+        "72 fresh free-range eggs",
+        "Weekly delivery",
+        "VIP 24/7 support",
+        "Quality guarantee",
+        "12% discount",
+        "Special Novagen eggs"
+      ]
+    },
+    "benefits": {
+      "title": "Benefits of Our Plans",
+      "delivery": {
+        "title": "Guaranteed Delivery",
+        "description": "Fresh eggs delivered to your door"
+      },
+      "quality": {
+        "title": "Superior Quality",
+        "description": "Free-range chickens and natural feeding"
+      },
+      "support": {
+        "title": "Complete Support",
+        "description": "Specialized service whenever you need"
+      },
+      "flexibility": {
+        "title": "Total Flexibility",
+        "description": "Pause, change or cancel anytime"
+      }
+    },
+    "cta": {
+      "title": "Start today!",
+      "description": "Choose your plan and have fresh and natural eggs on your table every day.",
+      "button": "Subscribe Now"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "description": "We're here to help! Contact us through the channels below or fill out the form."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "Rural Area, Divinópolis - MG",
+      "phone": "(37) 99999-9999",
+      "email": "contato@goldeneggsrwa.com",
+      "hours": "Monday to Friday: 7am to 5pm"
+    },
+    "form": {
+      "title": "Send Your Message",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "location": {
+      "title": "Our Location",
+      "description": "Visit our farm and see our production process up close."
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Golden Eggs",
+      "description": "Learn about our history, mission and values that make us a reference in free-range egg production."
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "Golden Eggs was born from the dream of offering superior quality eggs, produced with respect for animal welfare and the environment."
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "To produce high-quality free-range eggs, promoting animal welfare and offering healthy and natural products."
+    },
+    "vision": {
+      "title": "Vision",
+      "description": "To be a national reference in sustainable free-range egg production, expanding our reach and positive impact."
+    },
+    "values": {
+      "title": "Values",
+      "quality": "Quality",
+      "sustainability": "Sustainability",
+      "welfare": "Animal Welfare",
+      "innovation": "Innovation"
+    }
+  },
+  "footer": {
+    "company": "Golden Eggs",
+    "description": "Fresh and natural free-range eggs straight from our farm to your table.",
+    "quick_links": "Quick Links",
+    "contact_info": "Contact",
+    "follow_us": "Follow Us",
+    "rights": "All rights reserved."
+  }
+}
+

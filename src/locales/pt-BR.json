@@ -1,0 +1,487 @@
+{
+  "nav": {
+    "home": "Início",
+    "breeds": "Nossas Raças",
+    "services": "Serviços",
+    "plans": "Planos",
+    "blog": "Blog",
+    "contact": "Contato",
+    "about": "Sobre",
+    "login": "Entrar",
+    "register": "Cadastrar",
+    "logout": "Sair",
+    "tagline": "Ovos Caipiras Frescos"
+  },
+  "home": {
+    "hero": {
+      "title": "Ovos Caipiras",
+      "subtitle": "Frescos & Naturais",
+      "description": "Da nossa granja em Divinópolis-MG direto para sua mesa. Galinhas criadas soltas, alimentação natural e ovos com sabor incomparável.",
+      "cta_plans": "Ver Planos",
+      "cta_contact": "Fale Conosco",
+      "natural": "Natural"
+    },
+    "why": {
+      "title": "Por que escolher Golden Eggs?",
+      "description": "Nosso compromisso é oferecer ovos de qualidade superior, produzidos com cuidado e respeito ao bem-estar animal.",
+      "welfare": {
+        "title": "Bem-estar Animal",
+        "description": "Galinhas criadas soltas em ambiente natural, com cuidado e respeito."
+      },
+      "quality": {
+        "title": "Qualidade Garantida",
+        "description": "Ovos frescos coletados diariamente com rigoroso controle de qualidade."
+      },
+      "delivery": {
+        "title": "Entrega Rápida",
+        "description": "Do ninho à sua mesa em até 48 horas, sempre frescos."
+      },
+      "taste": {
+        "title": "Sabor Superior",
+        "description": "Ovos caipiras com sabor diferenciado e maior valor nutricional."
+      }
+    },
+    "process": {
+      "title": "Nosso Processo de Cuidado e",
+      "subtitle": "Qualidade",
+      "description": "Cada etapa do nosso processo é pensada para garantir o bem-estar das galinhas e a qualidade superior dos ovos que chegam à sua mesa.",
+      "feeding": {
+        "title": "Alimentação Natural",
+        "description": "Ração balanceada específica para poedeiras, sem hormônios ou antibióticos."
+      },
+      "environment": {
+        "title": "Ambiente Livre",
+        "description": "Galinhas criadas soltas com acesso a áreas externas e pastejo."
+      },
+      "collection": {
+        "title": "Coleta Diária",
+        "description": "Ovos coletados 3 vezes ao dia para garantir máximo frescor."
+      },
+      "selection": {
+        "title": "Seleção Rigorosa",
+        "description": "Cada ovo é inspecionado para garantir qualidade e integridade."
+      },
+      "certified": "Qualidade Certificada"
+    },
+    "breeds": {
+      "title": "Nossas Raças Especiais",
+      "description": "Trabalhamos com duas raças selecionadas, cada uma com características únicas que garantem ovos de qualidade excepcional.",
+      "isa": {
+        "category": "Tradicional",
+        "subtitle": "Alta produtividade e resistência",
+        "feature1": "300-330 ovos por ano",
+        "feature2": "Ovos marrons com casca firme",
+        "feature3": "Excelente conversão alimentar"
+      },
+      "novagen": {
+        "category": "Premium",
+        "subtitle": "Ovos creme com qualidade superior",
+        "feature1": "280-310 ovos creme por ano",
+        "feature2": "Sabor e textura diferenciados",
+        "feature3": "Maior valor nutricional"
+      },
+      "learn_more": "Saiba Mais"
+    },
+    "services": {
+      "title": "Nossas Áreas de Atuação",
+      "description": "Somos uma empresa completa no setor avícola, oferecendo soluções integradas para pequenos e médios produtores.",
+      "egg_production": {
+        "title": "Produção de Ovos Caipira",
+        "description": "Ovos frescos e de alta qualidade, de galinhas criadas livres e com alimentação natural."
+      },
+      "chicken_sales": {
+        "title": "Venda de Galinhas",
+        "description": "Aves saudáveis ao final do ciclo de produção, ideais para pequenas criações."
+      },
+      "bedding": {
+        "title": "Cama Aviária",
+        "description": "Adubo orgânico rico em nutrientes para enriquecer o solo de sua plantação."
+      },
+      "view_all": "Ver Todos os Serviços"
+    },
+    "stats": {
+      "clients": "Clientes Satisfeitos",
+      "cities": "Cidades Atendidas",
+      "eggs": "Ovos Entregues/Mês",
+      "rating": "Avaliação dos Clientes"
+    },
+    "location": {
+      "title": "Visite Nossa Granja em",
+      "subtitle": "Divinópolis",
+      "description": "Localizada na zona rural de Divinópolis-MG, nossa granja está sempre aberta para visitação. Venha conhecer nosso processo e veja de perto como cuidamos de nossas galinhas.",
+      "address": "Zona Rural, Divinópolis - MG",
+      "delivery": "Entregamos em toda a região",
+      "directions": "Como Chegar",
+      "our_location": "Nossa Localização",
+      "coordinates": "Coordenadas: -20.1389, -44.8839",
+      "view_map": "Ver Mapa Completo"
+    },
+    "cta": {
+      "title": "Pronto para experimentar ovos de verdade?",
+      "description": "Escolha seu plano e receba ovos frescos e naturais diretamente da nossa granja para sua casa.",
+      "button": "Escolher Seu Plano"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Nossos Serviços",
+      "description": "Soluções completas para o setor avícola, desde a produção de ovos até capacitação profissional."
+    },
+    "eggProduction": {
+      "title": "Produção de Ovos Caipira",
+      "description": "Ovos frescos e de alta qualidade, de galinhas criadas livres e com alimentação natural.",
+      "badge": "Principal",
+      "features": [
+        "Galinhas criadas soltas",
+        "Alimentação 100% natural",
+        "Coleta diária",
+        "Controle de qualidade rigoroso"
+      ]
+    },
+    "chickenSales": {
+      "title": "Venda de Galinhas",
+      "description": "Aves saudáveis ao final do ciclo de produção, ideais para pequenas criações.",
+      "badge": "Sustentável",
+      "features": [
+        "Aves saudáveis e produtivas",
+        "Idade ideal para reprodução",
+        "Genética de qualidade",
+        "Suporte técnico incluído"
+      ]
+    },
+    "poultryBedding": {
+      "title": "Venda de Cama Aviária",
+      "description": "Adubo orgânico rico em nutrientes para enriquecer o solo de sua plantação.",
+      "badge": "Orgânico",
+      "features": [
+        "Rico em nutrientes",
+        "100% orgânico",
+        "Melhora a fertilidade do solo",
+        "Entrega em sacos ou a granel"
+      ]
+    },
+    "broodstock": {
+      "title": "Matriz de Pintainhas",
+      "description": "Genética de qualidade para consumo próprio e para outros produtores parceiros.",
+      "badge": "Genética",
+      "features": [
+        "Linhagens selecionadas",
+        "Alta produtividade",
+        "Resistência a doenças",
+        "Acompanhamento técnico"
+      ]
+    },
+    "feedFactory": {
+      "title": "Fábrica de Rações",
+      "description": "Produzimos rações balanceadas para garantir a saúde e a produtividade de nossas aves.",
+      "badge": "Nutrição",
+      "features": [
+        "Fórmulas balanceadas",
+        "Ingredientes selecionados",
+        "Sem hormônios",
+        "Diferentes fases de crescimento"
+      ]
+    },
+    "franchise": {
+      "title": "Franquias Golden Eggs",
+      "description": "Franquias da Granja Golden Eggs para pequenos e médios produtores.",
+      "badge": "Negócio",
+      "features": [
+        "Modelo de negócio testado",
+        "Suporte completo",
+        "Treinamento incluído",
+        "Baixo investimento inicial"
+      ]
+    },
+    "education": {
+      "title": "Plataforma de Ensino",
+      "description": "Cursos e treinamentos para profissionalizar e capacitar novos avicultores.",
+      "badge": "Educação",
+      "features": [
+        "Cursos práticos",
+        "Instrutores especializados",
+        "Certificação",
+        "Acompanhamento pós-curso"
+      ]
+    },
+    "stats": {
+      "clients": "Clientes Atendidos",
+      "cities": "Cidades de Atuação",
+      "rating": "Avaliação Média"
+    },
+    "process": {
+      "title": "Como Trabalhamos",
+      "step1": {
+        "title": "Consulta Inicial",
+        "description": "Avaliamos suas necessidades e objetivos"
+      },
+      "step2": {
+        "title": "Proposta Personalizada",
+        "description": "Desenvolvemos uma solução sob medida"
+      },
+      "step3": {
+        "title": "Implementação",
+        "description": "Executamos o projeto com acompanhamento"
+      }
+    },
+    "cta": {
+      "title": "Pronto para começar?",
+      "description": "Entre em contato conosco e descubra como podemos ajudar seu negócio avícola.",
+      "button": "Fale Conosco"
+    }
+  },
+  "breeds": {
+    "hero": {
+      "title": "Nossas Raças",
+      "description": "Conheça as duas raças especiais que criamos em nossa granja, cada uma com características únicas que garantem ovos de qualidade excepcional."
+    },
+    "isaBrown": {
+      "title": "ISA Brown",
+      "badge": "Tradicional",
+      "description": "A ISA Brown é uma das raças mais populares e produtivas do mundo. Conhecida por sua robustez, adaptabilidade e excelente produção de ovos marrons.",
+      "characteristics": {
+        "title": "Características",
+        "plumage": "Plumagem marrom avermelhada",
+        "size": "Porte médio (1,8-2,2 kg)",
+        "temperament": "Dócil e sociável",
+        "adaptation": "Excelente adaptação climática"
+      },
+      "production": {
+        "title": "Produção",
+        "eggs": "300-330 ovos por ano",
+        "peak": "Pico aos 6-8 meses",
+        "weight": "Ovos de 60-65g",
+        "color": "Casca marrom firme",
+        "eggsPerYear": "300-330 ovos por ano",
+        "layingStart": "Início da postura: 18-20 semanas",
+        "peakProduction": "Pico de produção: 24-40 semanas",
+        "eggWeight": "Peso dos ovos: 60-65g"
+      },
+      "lifecycle": {
+        "title": "Ciclo de Vida",
+        "maturity": "Maturidade sexual: 18-20 semanas",
+        "peak_production": "Pico de produção: 24-40 semanas",
+        "productive_life": "Vida produtiva: 12-14 meses",
+        "longevity": "Longevidade: 5-8 anos"
+      },
+      "nutrition": {
+        "title": "Nutrição",
+        "feed": "Ração específica para poedeiras",
+        "protein": "16-18% de proteína",
+        "calcium": "Suplementação de cálcio",
+        "water": "Água fresca sempre disponível"
+      },
+      "advantages": {
+        "title": "Vantagens da ISA Brown",
+        "productivity": "Alta produtividade de ovos",
+        "resistance": "Resistência a doenças",
+        "conversion": "Excelente conversão alimentar",
+        "management": "Fácil manejo e adaptação"
+      }
+    },
+    "novagenTinted": {
+      "title": "Novagen Tinted",
+      "badge": "Premium",
+      "description": "A Novagen Tinted é uma raça especial que produz ovos com casca creme, oferecendo um produto diferenciado com sabor e qualidade superiores.",
+      "characteristics": {
+        "title": "Características",
+        "plumage": "Plumagem branca com detalhes",
+        "size": "Porte médio-grande (2,0-2,5 kg)",
+        "temperament": "Calma e produtiva",
+        "adaptation": "Boa adaptação a diferentes climas"
+      },
+      "production": {
+        "title": "Produção",
+        "eggs": "280-310 ovos por ano",
+        "peak": "Pico aos 7-9 meses",
+        "weight": "Ovos de 62-68g",
+        "color": "Casca creme diferenciada",
+        "eggsPerYear": "280-310 ovos por ano",
+        "layingStart": "Início da postura: 19-21 semanas",
+        "peakProduction": "Pico de produção: 26-42 semanas",
+        "eggWeight": "Peso dos ovos: 62-68g"
+      },
+      "lifecycle": {
+        "title": "Ciclo de Vida",
+        "maturity": "Maturidade sexual: 19-21 semanas",
+        "peak_production": "Pico de produção: 26-42 semanas",
+        "productive_life": "Vida produtiva: 12-15 meses",
+        "longevity": "Longevidade: 6-9 anos"
+      },
+      "nutrition": {
+        "title": "Nutrição",
+        "feed": "Ração premium balanceada",
+        "protein": "17-19% de proteína",
+        "calcium": "Cálcio de alta qualidade",
+        "supplements": "Suplementos naturais"
+      },
+      "advantages": {
+        "title": "Vantagens da Novagen Tinted",
+        "eggColor": "Ovos com casca creme diferenciada",
+        "nutrition": "Maior valor nutricional",
+        "flavor": "Sabor e textura superiores",
+        "market": "Alto valor de mercado"
+      }
+    },
+    "comparison": {
+      "title": "Comparativo das Raças",
+      "description": "Compare as características principais das duas raças que criamos em nossa granja.",
+      "production": "Produção Anual",
+      "egg_color": "Cor do Ovo",
+      "egg_weight": "Peso do Ovo",
+      "temperament": "Temperamento",
+      "adaptation": "Adaptação",
+      "table": {
+        "characteristic": "Característica",
+        "eggsPerYear": "Ovos por Ano",
+        "eggColor": "Cor do Ovo",
+        "layingStart": "Início da Postura",
+        "eggWeight": "Peso do Ovo",
+        "temperament": "Temperamento",
+        "brown": "Marrom",
+        "cream": "Creme",
+        "weeks18": "18-20 semanas",
+        "weeks19": "19-21 semanas",
+        "docile": "Dócil",
+        "calm": "Calma"
+      }
+    },
+    "cta": {
+      "title": "Interessado em nossas raças?",
+      "description": "Entre em contato conosco para saber mais sobre nossas galinhas e como adquiri-las.",
+      "button": "Fale Conosco",
+      "contact": "Fale Conosco",
+      "plans": "Ver Planos"
+    }
+  },
+  "plans": {
+    "hero": {
+      "title": "Planos de Assinatura",
+      "description": "Escolha o plano ideal para sua família e receba ovos frescos e naturais mensalmente."
+    },
+    "basic": {
+      "name": "Básico",
+      "period": "por mês",
+      "description": "Ideal para casais ou famílias pequenas",
+      "eggs": "2 dúzias por mês",
+      "features": [
+        "24 ovos caipiras frescos",
+        "Entrega mensal",
+        "Suporte por WhatsApp",
+        "Garantia de qualidade"
+      ]
+    },
+    "family": {
+      "name": "Família",
+      "period": "por mês",
+      "description": "Perfeito para famílias de 3-4 pessoas",
+      "eggs": "4 dúzias por mês",
+      "badge": "Mais Popular",
+      "features": [
+        "48 ovos caipiras frescos",
+        "Entrega quinzenal",
+        "Suporte prioritário",
+        "Garantia de qualidade",
+        "Desconto de 7%"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "period": "por mês",
+      "description": "Para famílias grandes ou consumo intenso",
+      "eggs": "6 dúzias por mês",
+      "features": [
+        "72 ovos caipiras frescos",
+        "Entrega semanal",
+        "Suporte VIP 24/7",
+        "Garantia de qualidade",
+        "Desconto de 12%",
+        "Ovos especiais Novagen"
+      ]
+    },
+    "benefits": {
+      "title": "Benefícios dos Nossos Planos",
+      "delivery": {
+        "title": "Entrega Garantida",
+        "description": "Ovos frescos entregues na sua porta"
+      },
+      "quality": {
+        "title": "Qualidade Superior",
+        "description": "Galinhas criadas soltas e alimentação natural"
+      },
+      "support": {
+        "title": "Suporte Completo",
+        "description": "Atendimento especializado sempre que precisar"
+      },
+      "flexibility": {
+        "title": "Flexibilidade Total",
+        "description": "Pause, altere ou cancele quando quiser"
+      }
+    },
+    "cta": {
+      "title": "Comece hoje mesmo!",
+      "description": "Escolha seu plano e tenha ovos frescos e naturais na sua mesa todos os dias.",
+      "button": "Assinar Agora"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Entre em Contato",
+      "description": "Estamos aqui para ajudar! Entre em contato conosco através dos canais abaixo ou preencha o formulário."
+    },
+    "info": {
+      "title": "Informações de Contato",
+      "address": "Zona Rural, Divinópolis - MG",
+      "phone": "(37) 99999-9999",
+      "email": "contato@goldeneggsrwa.com",
+      "hours": "Segunda a Sexta: 7h às 17h"
+    },
+    "form": {
+      "title": "Envie sua Mensagem",
+      "name": "Nome Completo",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar Mensagem"
+    },
+    "location": {
+      "title": "Nossa Localização",
+      "description": "Visite nossa granja e conheça de perto nosso processo de produção."
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Sobre a Golden Eggs",
+      "description": "Conheça nossa história, missão e valores que nos tornam referência na produção de ovos caipiras."
+    },
+    "story": {
+      "title": "Nossa História",
+      "description": "A Golden Eggs nasceu do sonho de oferecer ovos de qualidade superior, produzidos com respeito ao bem-estar animal e ao meio ambiente."
+    },
+    "mission": {
+      "title": "Missão",
+      "description": "Produzir ovos caipiras de alta qualidade, promovendo o bem-estar animal e oferecendo produtos saudáveis e naturais."
+    },
+    "vision": {
+      "title": "Visão",
+      "description": "Ser referência nacional na produção sustentável de ovos caipiras, expandindo nosso alcance e impacto positivo."
+    },
+    "values": {
+      "title": "Valores",
+      "quality": "Qualidade",
+      "sustainability": "Sustentabilidade",
+      "welfare": "Bem-estar Animal",
+      "innovation": "Inovação"
+    }
+  },
+  "footer": {
+    "company": "Golden Eggs",
+    "description": "Ovos caipiras frescos e naturais direto da nossa granja para sua mesa.",
+    "quick_links": "Links Rápidos",
+    "contact_info": "Contato",
+    "follow_us": "Siga-nos",
+    "rights": "Todos os direitos reservados."
+  }
+}
+

@@ -1,0 +1,200 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  --radius: 0.625rem;
+  /* Tema Golden Eggs - Cores Rurais */
+  --background: #fefefe;
+  --foreground: #2d3748;
+  --card: #ffffff;
+  --card-foreground: #2d3748;
+  --popover: #ffffff;
+  --popover-foreground: #2d3748;
+  --primary: #4a7c59; /* Verde Campo */
+  --primary-foreground: #ffffff;
+  --secondary: #8b4513; /* Marrom Terra */
+  --secondary-foreground: #ffffff;
+  --muted: #f5f5dc; /* Bege Claro */
+  --muted-foreground: #6b7280;
+  --accent: #daa520; /* Dourado */
+  --accent-foreground: #2d3748;
+  --destructive: #dc2626;
+  --border: #e5e7eb;
+  --input: #f9fafb;
+  --ring: #4a7c59;
+  --chart-1: #4a7c59;
+  --chart-2: #8b4513;
+  --chart-3: #daa520;
+  --chart-4: #90ee90;
+  --chart-5: #d2b48c;
+  --sidebar: #f5f5dc;
+  --sidebar-foreground: #2d3748;
+  --sidebar-primary: #4a7c59;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #daa520;
+  --sidebar-accent-foreground: #2d3748;
+  --sidebar-border: #e5e7eb;
+  --sidebar-ring: #4a7c59;
+}
+
+.dark {
+  --background: #1a202c;
+  --foreground: #f7fafc;
+  --card: #2d3748;
+  --card-foreground: #f7fafc;
+  --popover: #2d3748;
+  --popover-foreground: #f7fafc;
+  --primary: #68d391;
+  --primary-foreground: #1a202c;
+  --secondary: #a0522d;
+  --secondary-foreground: #f7fafc;
+  --muted: #4a5568;
+  --muted-foreground: #a0aec0;
+  --accent: #f6e05e;
+  --accent-foreground: #1a202c;
+  --destructive: #fc8181;
+  --border: #4a5568;
+  --input: #2d3748;
+  --ring: #68d391;
+  --chart-1: #68d391;
+  --chart-2: #a0522d;
+  --chart-3: #f6e05e;
+  --chart-4: #90ee90;
+  --chart-5: #d2b48c;
+  --sidebar: #2d3748;
+  --sidebar-foreground: #f7fafc;
+  --sidebar-primary: #68d391;
+  --sidebar-primary-foreground: #1a202c;
+  --sidebar-accent: #f6e05e;
+  --sidebar-accent-foreground: #1a202c;
+  --sidebar-border: #4a5568;
+  --sidebar-ring: #68d391;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+}
+
+/* Estilos personalizados Golden Eggs */
+@layer components {
+  .hero-gradient {
+    background: linear-gradient(135deg, #4a7c59 0%, #68d391 100%);
+  }
+  
+  .rural-pattern {
+    background-image: 
+      radial-gradient(circle at 25% 25%, #f5f5dc 2px, transparent 2px),
+      radial-gradient(circle at 75% 75%, #f5f5dc 2px, transparent 2px);
+    background-size: 50px 50px;
+  }
+  
+  .golden-gradient {
+    background: linear-gradient(135deg, #daa520 0%, #f6e05e 100%);
+  }
+  
+  .earth-gradient {
+    background: linear-gradient(135deg, #8b4513 0%, #a0522d 100%);
+  }
+  
+  .btn-primary {
+    @apply bg-primary hover:bg-primary/90 text-primary-foreground px-6 py-3 rounded-lg font-semibold transition-all duration-200 shadow-lg hover:shadow-xl;
+  }
+  
+  .btn-secondary {
+    @apply bg-secondary hover:bg-secondary/90 text-secondary-foreground px-6 py-3 rounded-lg font-semibold transition-all duration-200 shadow-lg hover:shadow-xl;
+  }
+  
+  .btn-accent {
+    @apply bg-accent hover:bg-accent/90 text-accent-foreground px-6 py-3 rounded-lg font-semibold transition-all duration-200 shadow-lg hover:shadow-xl;
+  }
+  
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent;
+  }
+  
+  .section-padding {
+    @apply py-16 px-4 sm:px-6 lg:px-8;
+  }
+  
+  .container-custom {
+    @apply max-w-7xl mx-auto;
+  }
+}
+
+/* Animações personalizadas */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 2s ease-in-out infinite;
+}
+
+/* Tipografia */
+.font-display {
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+.font-body {
+  font-family: 'Inter', 'Segoe UI', 'Roboto', sans-serif;
+}
+

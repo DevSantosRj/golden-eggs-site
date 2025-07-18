@@ -1,0 +1,492 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "breeds": "Nuestras Razas",
+    "services": "Servicios",
+    "plans": "Planes",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "about": "Acerca de",
+    "login": "Ingresar",
+    "register": "Registrarse",
+    "logout": "Salir",
+    "tagline": "Huevos de Campo Frescos"
+  },
+  "home": {
+    "hero": {
+      "title": "Huevos de Campo",
+      "subtitle": "Frescos y Naturales",
+      "description": "Desde nuestra granja en Divinópolis-MG directo a su mesa. Gallinas criadas libres, alimentación natural y huevos con sabor incomparable.",
+      "cta_plans": "Ver Planes",
+      "cta_contact": "Contáctanos",
+      "natural": "Natural"
+    },
+    "why": {
+      "title": "¿Por qué elegir Golden Eggs?",
+      "description": "Nuestro compromiso es ofrecer huevos de calidad superior, producidos con cuidado y respeto por el bienestar animal.",
+      "welfare": {
+        "title": "Bienestar Animal",
+        "description": "Gallinas criadas libres en ambiente natural, con cuidado y respeto."
+      },
+      "quality": {
+        "title": "Calidad Garantizada",
+        "description": "Huevos frescos recolectados diariamente con riguroso control de calidad."
+      },
+      "delivery": {
+        "title": "Entrega Rápida",
+        "description": "Del nido a su mesa en hasta 48 horas, siempre frescos."
+      },
+      "taste": {
+        "title": "Sabor Superior",
+        "description": "Huevos de campo con sabor diferenciado y mayor valor nutricional."
+      }
+    },
+    "process": {
+      "title": "Nuestro Proceso de Cuidado y",
+      "subtitle": "Calidad",
+      "description": "Cada etapa de nuestro proceso está pensada para garantizar el bienestar de las gallinas y la calidad superior de los huevos que llegan a su mesa.",
+      "feeding": {
+        "title": "Alimentación Natural",
+        "description": "Alimento balanceado específico para ponedoras, sin hormonas ni antibióticos."
+      },
+      "environment": {
+        "title": "Ambiente Libre",
+        "description": "Gallinas criadas libres con acceso a áreas externas y pastoreo."
+      },
+      "collection": {
+        "title": "Recolección Diaria",
+        "description": "Huevos recolectados 3 veces al día para garantizar máxima frescura."
+      },
+      "selection": {
+        "title": "Selección Rigurosa",
+        "description": "Cada huevo es inspeccionado para garantizar calidad e integridad."
+      },
+      "certified": "Calidad Certificada"
+    },
+    "breeds": {
+      "title": "Nuestras Razas Especiales",
+      "description": "Trabajamos con dos razas seleccionadas, cada una con características únicas que garantizan huevos de calidad excepcional.",
+      "isa": {
+        "category": "Tradicional",
+        "subtitle": "Alta productividad y resistencia",
+        "feature1": "300-330 huevos por año",
+        "feature2": "Huevos marrones con cáscara firme",
+        "feature3": "Excelente conversión alimentaria"
+      },
+      "novagen": {
+        "category": "Premium",
+        "subtitle": "Huevos crema con calidad superior",
+        "feature1": "280-310 huevos crema por año",
+        "feature2": "Sabor y textura diferenciados",
+        "feature3": "Mayor valor nutricional"
+      },
+      "learn_more": "Saber Más"
+    },
+    "services": {
+      "title": "Nuestras Áreas de Actuación",
+      "description": "Somos una empresa completa en el sector avícola, ofreciendo soluciones integradas para pequeños y medianos productores.",
+      "egg_production": {
+        "title": "Producción de Huevos de Campo",
+        "description": "Huevos frescos y de alta calidad, de gallinas criadas libres y con alimentación natural."
+      },
+      "chicken_sales": {
+        "title": "Venta de Gallinas",
+        "description": "Aves saludables al final del ciclo de producción, ideales para pequeñas crianzas."
+      },
+      "bedding": {
+        "title": "Cama Avícola",
+        "description": "Abono orgánico rico en nutrientes para enriquecer el suelo de su plantación."
+      },
+      "view_all": "Ver Todos los Servicios"
+    },
+    "stats": {
+      "clients": "Clientes Satisfechos",
+      "cities": "Ciudades Atendidas",
+      "eggs": "Huevos Entregados/Mes",
+      "rating": "Evaluación de Clientes"
+    },
+    "location": {
+      "title": "Visite Nuestra Granja en",
+      "subtitle": "Divinópolis",
+      "description": "Ubicada en la zona rural de Divinópolis-MG, nuestra granja está siempre abierta para visitación. Venga a conocer nuestro proceso y vea de cerca cómo cuidamos nuestras gallinas.",
+      "address": "Zona Rural, Divinópolis - MG",
+      "delivery": "Entregamos en toda la región",
+      "directions": "Cómo Llegar",
+      "our_location": "Nuestra Ubicación",
+      "coordinates": "Coordenadas: -20.1389, -44.8839",
+      "view_map": "Ver Mapa Completo"
+    },
+    "cta": {
+      "title": "¿Listo para probar huevos de verdad?",
+      "description": "Elija su plan y reciba huevos frescos y naturales directamente de nuestra granja a su casa.",
+      "button": "Elegir Su Plan"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Nuestros Servicios",
+      "description": "Soluciones completas para el sector avícola, desde la producción de huevos hasta capacitación profesional.",
+      "badge": "Soluciones Completas"
+    },
+    "eggProduction": {
+      "title": "Producción de Huevos de Campo",
+      "description": "Huevos frescos y de alta calidad, de gallinas criadas libres y con alimentación natural.",
+      "badge": "Principal",
+      "features": [
+        "Gallinas criadas libres",
+        "Alimentación 100% natural",
+        "Recolección diaria",
+        "Control de calidad riguroso"
+      ]
+    },
+    "chickenSales": {
+      "title": "Venta de Gallinas",
+      "description": "Aves saludables al final del ciclo de producción, ideales para pequeñas crianzas.",
+      "badge": "Sostenible",
+      "features": [
+        "Aves saludables y productivas",
+        "Edad ideal para reproducción",
+        "Genética de calidad",
+        "Soporte técnico incluido"
+      ]
+    },
+    "poultryBedding": {
+      "title": "Venta de Cama Avícola",
+      "description": "Abono orgánico rico en nutrientes para enriquecer el suelo de su plantación.",
+      "badge": "Orgánico",
+      "features": [
+        "Rico en nutrientes",
+        "100% orgánico",
+        "Mejora la fertilidad del suelo",
+        "Entrega en sacos o a granel"
+      ]
+    },
+    "broodstock": {
+      "title": "Matriz de Pollitas",
+      "description": "Genética de calidad para consumo propio y para otros productores socios.",
+      "badge": "Genética",
+      "features": [
+        "Linajes seleccionados",
+        "Alta productividad",
+        "Resistencia a enfermedades",
+        "Acompañamiento técnico"
+      ]
+    },
+    "feedFactory": {
+      "title": "Fábrica de Alimentos",
+      "description": "Producimos alimentos balanceados para garantizar la salud y productividad de nuestras aves.",
+      "badge": "Nutrición",
+      "features": [
+        "Fórmulas balanceadas",
+        "Ingredientes seleccionados",
+        "Sin hormonas",
+        "Diferentes fases de crecimiento"
+      ]
+    },
+    "franchise": {
+      "title": "Franquicias Golden Eggs",
+      "description": "Franquicias de la Granja Golden Eggs para pequeños y medianos productores.",
+      "badge": "Negocio",
+      "features": [
+        "Modelo de negocio probado",
+        "Soporte completo",
+        "Entrenamiento incluido",
+        "Baja inversión inicial"
+      ]
+    },
+    "education": {
+      "title": "Plataforma de Enseñanza",
+      "description": "Cursos y entrenamientos para profesionalizar y capacitar nuevos avicultores.",
+      "badge": "Educación",
+      "features": [
+        "Cursos prácticos",
+        "Instructores especializados",
+        "Certificación",
+        "Acompañamiento post-curso"
+      ]
+    },
+    "stats": {
+      "title": "Nuestros Números",
+      "description": "Resultados que demuestran nuestro compromiso con la excelencia y satisfacción del cliente.",
+      "clients": "Clientes Atendidos",
+      "cities": "Ciudades de Actuación",
+      "services": "Servicios Ofrecidos",
+      "rating": "Evaluación Promedio"
+    },
+    "process": {
+      "title": "Cómo Trabajamos",
+      "description": "Nuestra metodología probada para garantizar el éxito de su proyecto avícola.",
+      "step1": {
+        "title": "Consulta Inicial",
+        "description": "Evaluamos sus necesidades y objetivos"
+      },
+      "step2": {
+        "title": "Propuesta Personalizada",
+        "description": "Desarrollamos una solución a medida"
+      },
+      "step3": {
+        "title": "Implementación",
+        "description": "Ejecutamos el proyecto con acompañamiento"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para comenzar?",
+      "description": "Contáctenos y descubra cómo podemos ayudar su negocio avícola.",
+      "button": "Contáctanos"
+    }
+  },
+  "breeds": {
+    "hero": {
+      "title": "Nuestras Razas",
+      "description": "Conozca las dos razas especiales que criamos en nuestra granja, cada una con características únicas que garantizan huevos de calidad excepcional."
+    },
+    "isaBrown": {
+      "title": "ISA Brown",
+      "badge": "Tradicional",
+      "description": "La ISA Brown es una de las razas más populares y productivas del mundo. Conocida por su robustez, adaptabilidad y excelente producción de huevos marrones.",
+      "characteristics": {
+        "title": "Características",
+        "plumage": "Plumaje marrón rojizo",
+        "size": "Porte medio (1,8-2,2 kg)",
+        "temperament": "Dócil y sociable",
+        "adaptation": "Excelente adaptación climática"
+      },
+      "production": {
+        "title": "Producción",
+        "eggs": "300-330 huevos por año",
+        "peak": "Pico a los 6-8 meses",
+        "weight": "Huevos de 60-65g",
+        "color": "Cáscara marrón firme",
+        "eggsPerYear": "300-330 huevos por año",
+        "layingStart": "Inicio de postura: 18-20 semanas",
+        "peakProduction": "Pico de producción: 24-40 semanas",
+        "eggWeight": "Peso de huevos: 60-65g"
+      },
+      "lifecycle": {
+        "title": "Ciclo de Vida",
+        "maturity": "Madurez sexual: 18-20 semanas",
+        "peak_production": "Pico de producción: 24-40 semanas",
+        "productive_life": "Vida productiva: 12-14 meses",
+        "longevity": "Longevidad: 5-8 años"
+      },
+      "nutrition": {
+        "title": "Nutrición",
+        "feed": "Alimento específico para ponedoras",
+        "protein": "16-18% de proteína",
+        "calcium": "Suplementación de calcio",
+        "water": "Agua fresca siempre disponible"
+      },
+      "advantages": {
+        "title": "Ventajas de la ISA Brown",
+        "productivity": "Alta productividad de huevos",
+        "resistance": "Resistencia a enfermedades",
+        "conversion": "Excelente conversión alimentaria",
+        "management": "Fácil manejo y adaptación"
+      }
+    },
+    "novagenTinted": {
+      "title": "Novagen Tinted",
+      "badge": "Premium",
+      "description": "La Novagen Tinted es una raza especial que produce huevos con cáscara crema, ofreciendo un producto diferenciado con sabor y calidad superiores.",
+      "characteristics": {
+        "title": "Características",
+        "plumage": "Plumaje blanco con detalles",
+        "size": "Porte medio-grande (2,0-2,5 kg)",
+        "temperament": "Calma y productiva",
+        "adaptation": "Buena adaptación a diferentes climas"
+      },
+      "production": {
+        "title": "Producción",
+        "eggs": "280-310 huevos por año",
+        "peak": "Pico a los 7-9 meses",
+        "weight": "Huevos de 62-68g",
+        "color": "Cáscara crema diferenciada",
+        "eggsPerYear": "280-310 huevos por año",
+        "layingStart": "Inicio de postura: 19-21 semanas",
+        "peakProduction": "Pico de producción: 26-42 semanas",
+        "eggWeight": "Peso de huevos: 62-68g"
+      },
+      "lifecycle": {
+        "title": "Ciclo de Vida",
+        "maturity": "Madurez sexual: 19-21 semanas",
+        "peak_production": "Pico de producción: 26-42 semanas",
+        "productive_life": "Vida productiva: 12-15 meses",
+        "longevity": "Longevidad: 6-9 años"
+      },
+      "nutrition": {
+        "title": "Nutrición",
+        "feed": "Alimento premium balanceado",
+        "protein": "17-19% de proteína",
+        "calcium": "Calcio de alta calidad",
+        "supplements": "Suplementos naturales"
+      },
+      "advantages": {
+        "title": "Ventajas de la Novagen Tinted",
+        "eggColor": "Huevos con cáscara crema diferenciada",
+        "nutrition": "Mayor valor nutricional",
+        "flavor": "Sabor y textura superiores",
+        "market": "Alto valor de mercado"
+      }
+    },
+    "comparison": {
+      "title": "Comparativo de Razas",
+      "description": "Compare las características principales de las dos razas que criamos en nuestra granja.",
+      "production": "Producción Anual",
+      "egg_color": "Color del Huevo",
+      "egg_weight": "Peso del Huevo",
+      "temperament": "Temperamento",
+      "adaptation": "Adaptación",
+      "table": {
+        "characteristic": "Característica",
+        "eggsPerYear": "Huevos por Año",
+        "eggColor": "Color del Huevo",
+        "layingStart": "Inicio de Postura",
+        "eggWeight": "Peso del Huevo",
+        "temperament": "Temperamento",
+        "brown": "Marrón",
+        "cream": "Crema",
+        "weeks18": "18-20 semanas",
+        "weeks19": "19-21 semanas",
+        "docile": "Dócil",
+        "calm": "Calma"
+      }
+    },
+    "cta": {
+      "title": "¿Interesado en nuestras razas?",
+      "description": "Contáctenos para saber más sobre nuestras gallinas y cómo adquirirlas.",
+      "button": "Contáctanos",
+      "contact": "Contáctanos",
+      "plans": "Ver Planes"
+    }
+  },
+  "plans": {
+    "hero": {
+      "title": "Planes de Suscripción",
+      "description": "Elija el plan ideal para su familia y reciba huevos frescos y naturales mensualmente."
+    },
+    "basic": {
+      "name": "Básico",
+      "period": "por mes",
+      "description": "Ideal para parejas o familias pequeñas",
+      "eggs": "2 docenas por mes",
+      "features": [
+        "24 huevos de campo frescos",
+        "Entrega mensual",
+        "Soporte por WhatsApp",
+        "Garantía de calidad"
+      ]
+    },
+    "family": {
+      "name": "Familia",
+      "period": "por mes",
+      "description": "Perfecto para familias de 3-4 personas",
+      "eggs": "4 docenas por mes",
+      "badge": "Más Popular",
+      "features": [
+        "48 huevos de campo frescos",
+        "Entrega quincenal",
+        "Soporte prioritario",
+        "Garantía de calidad",
+        "Descuento del 7%"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "period": "por mes",
+      "description": "Para familias grandes o consumo intenso",
+      "eggs": "6 docenas por mes",
+      "features": [
+        "72 huevos de campo frescos",
+        "Entrega semanal",
+        "Soporte VIP 24/7",
+        "Garantía de calidad",
+        "Descuento del 12%",
+        "Huevos especiales Novagen"
+      ]
+    },
+    "benefits": {
+      "title": "Beneficios de Nuestros Planes",
+      "delivery": {
+        "title": "Entrega Garantizada",
+        "description": "Huevos frescos entregados en su puerta"
+      },
+      "quality": {
+        "title": "Calidad Superior",
+        "description": "Gallinas criadas libres y alimentación natural"
+      },
+      "support": {
+        "title": "Soporte Completo",
+        "description": "Atención especializada siempre que necesite"
+      },
+      "flexibility": {
+        "title": "Flexibilidad Total",
+        "description": "Pause, altere o cancele cuando quiera"
+      }
+    },
+    "cta": {
+      "title": "¡Comience hoy mismo!",
+      "description": "Elija su plan y tenga huevos frescos y naturales en su mesa todos los días.",
+      "button": "Suscribirse Ahora"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contáctenos",
+      "description": "¡Estamos aquí para ayudar! Contáctenos a través de los canales abajo o complete el formulario."
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "address": "Zona Rural, Divinópolis - MG",
+      "phone": "(37) 99999-9999",
+      "email": "contato@goldeneggsrwa.com",
+      "hours": "Lunes a Viernes: 7h a 17h"
+    },
+    "form": {
+      "title": "Envíe su Mensaje",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje"
+    },
+    "location": {
+      "title": "Nuestra Ubicación",
+      "description": "Visite nuestra granja y conozca de cerca nuestro proceso de producción."
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Acerca de Golden Eggs",
+      "description": "Conozca nuestra historia, misión y valores que nos hacen referencia en la producción de huevos de campo."
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "description": "Golden Eggs nació del sueño de ofrecer huevos de calidad superior, producidos con respeto al bienestar animal y al medio ambiente."
+    },
+    "mission": {
+      "title": "Misión",
+      "description": "Producir huevos de campo de alta calidad, promoviendo el bienestar animal y ofreciendo productos saludables y naturales."
+    },
+    "vision": {
+      "title": "Visión",
+      "description": "Ser referencia nacional en la producción sostenible de huevos de campo, expandiendo nuestro alcance e impacto positivo."
+    },
+    "values": {
+      "title": "Valores",
+      "quality": "Calidad",
+      "sustainability": "Sostenibilidad",
+      "welfare": "Bienestar Animal",
+      "innovation": "Innovación"
+    }
+  },
+  "footer": {
+    "company": "Golden Eggs",
+    "description": "Huevos de campo frescos y naturales directo de nuestra granja a su mesa.",
+    "quick_links": "Enlaces Rápidos",
+    "contact_info": "Contacto",
+    "follow_us": "Síguenos",
+    "rights": "Todos los derechos reservados."
+  }
+}
+
