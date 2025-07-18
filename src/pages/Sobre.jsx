@@ -53,15 +53,15 @@ const Sobre = () => {
               </h2>
               <div className="space-y-4 text-lg text-muted-foreground">
                 <p>
-                  A Golden Eggs nasceu do sonho de uma família apaixonada pela avicultura 
-                  e comprometida com a produção de ovos de qualidade superior. Localizada 
+                  A Golden Eggs nasceu do sonho de 3 amigos apaixonada pela avicultura 
+                  e comprometidos com a produção de ovos de qualidade superior. Localizada 
                   na zona rural de Divinópolis-MG, nossa granja combina tradição familiar 
                   com técnicas modernas de criação.
                 </p>
                 <p>
                   Desde o início, nosso foco sempre foi o bem-estar das galinhas e a 
                   produção de ovos frescos e naturais. Trabalhamos com duas raças 
-                  cuidadosamente selecionadas: ISA Brown e Novagen Tinted, cada uma 
+                  cuidadosamente selecionadas: <strong>ISA Brown</strong> e <strong>Novagen Tinted</strong>, cada uma 
                   com características únicas que garantem ovos excepcionais.
                 </p>
                 <p>
@@ -80,7 +80,7 @@ const Sobre = () => {
               />
               <div className="absolute -bottom-6 -right-6 bg-accent text-accent-foreground p-4 rounded-xl shadow-lg">
                 <div className="text-center">
-                  <div className="text-2xl font-bold">2019</div>
+                  <div className="text-2xl font-bold">2025</div>
                   <div className="text-sm">Fundação</div>
                 </div>
               </div>
@@ -193,11 +193,11 @@ const Sobre = () => {
           
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl md:text-5xl font-bold mb-2">500+</div>
+              <div className="text-4xl md:text-5xl font-bold mb-2">4000+</div>
               <div className="text-primary-foreground/80">Galinhas Criadas</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-bold mb-2">1000+</div>
+              <div className="text-4xl md:text-5xl font-bold mb-2">3200+</div>
               <div className="text-primary-foreground/80">Ovos por Dia</div>
             </div>
             <div>
@@ -205,7 +205,7 @@ const Sobre = () => {
               <div className="text-primary-foreground/80">Famílias Atendidas</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-bold mb-2">5</div>
+              <div className="text-4xl md:text-5xl font-bold mb-2">10+</div>
               <div className="text-primary-foreground/80">Anos de Experiência</div>
             </div>
           </div>

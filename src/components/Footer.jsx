@@ -74,12 +74,12 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link 
+                {/*<Link 
                   to="/planos" 
                   className="text-sm text-secondary-foreground/80 hover:text-accent transition-colors"
                 >
                   {t('nav.plans')}
-                </Link>
+                </Link> */}
               </li>
               <li>
                 <Link 
@@ -150,7 +150,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-sm text-secondary-foreground/60">
-            © 2024 {t('footer.company')}. {t('footer.rights')}
+            © 2025 {t('footer.company')}. {t('footer.rights')}
           </p>
           <div className="flex space-x-6">
             <a 

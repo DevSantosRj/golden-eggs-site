@@ -30,7 +30,7 @@ const Home = () => {
               
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild size="lg" className="bg-yellow-600 hover:bg-yellow-700 text-white font-semibold px-8 py-3">
-                  <Link to="/planos">{t('home.hero.cta_plans')}</Link>
+                  {/*<Link to="/planos">{t('home.hero.cta_plans')}</Link>*/}
                 </Button>
                 <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-green-800 font-semibold px-8 py-3">
                   <Link to="/contato">{t('home.hero.cta_contact')}</Link>
@@ -421,7 +421,7 @@ const Home = () => {
               {t('home.cta.description')}
             </p>
             <Button asChild size="lg" className="bg-yellow-600 hover:bg-yellow-700 text-white font-semibold px-8 py-3">
-              <Link to="/planos">{t('home.cta.button')}</Link>
+              {/*<Link to="/planos">{t('home.cta.button')}</Link>*/}
             </Button>
           </div>
         </div>

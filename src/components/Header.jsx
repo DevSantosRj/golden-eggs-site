@@ -16,8 +16,8 @@ const Header = () => {
     { name: t('nav.home'), href: '/' },
     { name: t('nav.breeds'), href: '/racas' },
     { name: t('nav.services'), href: '/servicos' },
-    { name: t('nav.plans'), href: '/planos' },
-    { name: t('nav.blog'), href: '/blog' },
+    //{ name: t('nav.plans'), href: '/planos' },
+    //{ name: t('nav.blog'), href: '/blog' },
     { name: t('nav.contact'), href: '/contato' },
     { name: t('nav.about'), href: '/sobre' },
   ]
@@ -80,14 +80,14 @@ const Header = () => {
                   size="sm"
                   className="text-green-100 hover:bg-green-700"
                 >
-                  <Link to="/login">{t('nav.login')}</Link>
+                    {/*<Link to="/login">{t('nav.login')}</Link>*/}
                 </Button>
                 <Button
                   asChild
                   size="sm"
                   className="bg-yellow-600 hover:bg-yellow-700 text-white"
                 >
-                  <Link to="/cadastro">{t('nav.register')}</Link>
+                  {/*<Link to="/cadastro">{t('nav.register')}</Link>*/}
                 </Button>
               </div>
             )}
@@ -161,7 +161,7 @@ const Header = () => {
                       className="w-full bg-yellow-600 hover:bg-yellow-700 text-white"
                       onClick={() => setIsMenuOpen(false)}
                     >
-                      <Link to="/cadastro">{t('nav.register')}</Link>
+                      {/*<Link to="/cadastro">{t('nav.register')}</Link>*/}
                     </Button>
                   </div>
                 )}
