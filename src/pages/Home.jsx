@@ -32,7 +32,7 @@ const Home = () => {
                 <Button asChild size="lg" className="bg-yellow-600 hover:bg-yellow-700 text-white font-semibold px-8 py-3">
                   {/*<Link to="/planos">{t('home.hero.cta_plans')}</Link>*/}
                 </Button>
-                <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-green-800 font-semibold px-8 py-3">
+                <Button asChild variant="outline" size="lg" className="border-yellow-600 bg-yellow-600 text-white hover:bg-white hover:text-green-800 font-semibold px-8 py-3">
                   <Link to="/contato">{t('home.hero.cta_contact')}</Link>
                 </Button>
               </div>
